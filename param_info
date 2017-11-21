@@ -1,0 +1,4 @@
+hf->/var/www/simulation_data/Albury/HF/Cant1D_v2-midQ_leer_hfnp2mm+_rvf0p8_sd50_k0p045/Albury_HYP01-01_S1244/Acc
+bb->/var/www/simulation_data/Albury/BB/Cant1D_v2-midQ_leer_hfnp2mm+_rvf0p8_sd50_k0p045/Albury_HYP01-01_S1244/(acc/vel)
+lf->/var/www/simulation_data/Albury/LF/Albury_HYP01-01_S1244/Vel
+no of stations->/var/www/simulation_data/Albury/params_base.py->FD_STATLIST( This gives the file name where stations are)

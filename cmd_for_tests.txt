@@ -1,0 +1,8 @@
+command to stop testing after the first test fails:
+python -m pytest --maxfail=1 test_hf.py 
+command to display PASSED or FAILED:
+python -m pytest -v test_rlog.py
+
+#Test command for every method: stop after first fail.
+python -m pytest --maxfail=1 -v -s test_post_emod3d.py
+
